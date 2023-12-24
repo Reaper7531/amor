@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amor/static/css/main.f08261f9.css",
+    "main.js": "/amor/static/js/main.a6e046c4.js",
+    "static/js/787.9729778d.chunk.js": "/amor/static/js/787.9729778d.chunk.js",
+    "static/media/Kawaii.gif": "/amor/static/media/Kawaii.13076daba61fc37ab9b5.gif",
+    "index.html": "/amor/index.html",
+    "main.f08261f9.css.map": "/amor/static/css/main.f08261f9.css.map",
+    "main.a6e046c4.js.map": "/amor/static/js/main.a6e046c4.js.map",
+    "787.9729778d.chunk.js.map": "/amor/static/js/787.9729778d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f08261f9.css",
+    "static/js/main.a6e046c4.js"
+  ]
+}
