@@ -26,6 +26,7 @@ justify-content: center;
 align-items: center;
 display: flex;
 height: 27vh;
+border
 background-color: transparent;
 }
 #Time{
@@ -38,11 +39,11 @@ background-color: transparent;
 #LC{
   background-color: transparent;
   width: 100dvw;
-  height: 20dvw;
   justify-content: center;
   align-items: center;
   display: flex;
   height: 35vh;
+border:2px solid red;
   }
   #LTime{
     background-color: transparent;
