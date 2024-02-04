@@ -25,7 +25,7 @@ width: 100dvw;
 justify-content: center;
 align-items: center;
 display: flex;
-height: 27dvh;
+height: 27vh;
 background-color: transparent;
 }
 #Time{
@@ -42,7 +42,7 @@ background-color: transparent;
   justify-content: center;
   align-items: center;
   display: flex;
-  height: 35dvh;
+  height: 35vh;
   }
   #LTime{
     background-color: transparent;
