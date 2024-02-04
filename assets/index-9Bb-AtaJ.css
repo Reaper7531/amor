@@ -31,7 +31,7 @@ background-color: transparent;
 #Time{
   background-color: transparent;
   color: wheat;
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: bolder;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -47,7 +47,7 @@ background-color: transparent;
   #LTime{
     background-color: transparent;
     color: wheat;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: bolder;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
